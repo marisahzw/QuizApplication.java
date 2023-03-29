@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<Pane id="btnBack" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
+      prefHeight="687.0" prefWidth="1035.0" xmlns="http://javafx.com/javafx/17.0.2-ea"
+      xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Label layoutX="113.0" layoutY="49.0" text="Questions">
+            <font>
+                <Font name="System Bold" size="20.0"/>
+            </font>
+        </Label>
+        <ScrollPane id="resultsPane" layoutX="113.0" layoutY="137.0" prefHeight="445.0" prefWidth="809.0">
+            <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="281.0" prefWidth="840.0">
+                    <children>
+
+                    </children>
+                </AnchorPane>
+            </content>
+        </ScrollPane>
+        <Button id="backBtn" layoutX="844.0" layoutY="626.0" mnemonicParsing="false" prefHeight="43.0" prefWidth="93.0"
+                style="-fx-background-color: red;" text="Back">
+            <font>
+                <Font name="System Italic" size="16.0"/>
+            </font>
+        </Button>
+    </children>
+</Pane>

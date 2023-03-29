@@ -1,0 +1,133 @@
+[
+  {
+    "question": "What is the most used programming language in the world?",
+    "choices": [
+      "Java",
+      "C",
+      "C++",
+      "Python"
+    ],
+    "answer": "Java"
+  },
+  {
+    "question": "Programming language that is used to create web pages?",
+    "choices": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Programming languages can be divided into how many categories?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "Which of the following is not a programming language?",
+    "choices": [
+      "Java",
+      "C",
+      "C++",
+      "HTML"
+    ],
+    "answer": "HTML"
+  },
+  {
+    "question": "What is object oriented programming?",
+    "choices": [
+      "Object oriented programming is a programming language model organized around objects rather than \"actions\" and data rather than logic.",
+      "Object oriented programming is a programming language model organized around actions rather than \"objects\" and logic rather than data.",
+      "Object oriented programming is a programming language model organized around objects rather than \"actions\" and logic rather than data.",
+      "Object oriented programming is a programming language model organized around actions rather than \"objects\" and data rather than logic."
+    ],
+    "answer": "Object oriented programming is a programming language model organized around objects rather than \"actions\" and logic rather than data."
+  },
+  {
+    "question": "What is the most popular programming language in 2022?",
+    "choices": [
+      "Java",
+      "C",
+      "C++",
+      "Python"
+    ],
+    "answer": "Java"
+  },{
+  "question": "When was the first computer invented?",
+    "choices": [
+        "1940",
+        "1945",
+        "1950",
+        "1955"
+    ],
+    "answer": "1945"
+    },
+  {
+    "question": "Who invented the first computer?",
+    "choices": [
+      "Charles Babbage",
+      "Alan Turing",
+      "Ada Lovelace",
+      "Grace Hopper"
+    ],
+    "answer": "Charles Babbage"
+  },
+  {
+    "question": "What is the name of the first computer?",
+    "choices": [
+      "ENIAC",
+      "UNIVAC",
+      "EDVAC",
+      "ABC"
+    ],
+    "answer": "ENIAC"
+  },
+  {
+    "question": "What is the name of the first computer virus?",
+    "choices": [
+      "Creeper",
+      "Elk Cloner",
+      "Rabbit",
+      "SCA Virus"
+    ],
+    "answer": "Rabbit"
+  },
+  {
+    "question": "What is the name of the first computer mouse?",
+    "choices": [
+      "Xerox Alto",
+      "Apple Lisa",
+      "Xerox Star",
+      "Xerox 8010"
+    ],
+    "answer": "Xerox Alto"
+  },
+  {
+    "question": "What is the name of the first computer game?",
+    "choices": [
+      "Spacewar!",
+      "Pong",
+      "Tennis for Two",
+      "Chess"
+    ],
+    "answer": "Tennis for Two"
+  },
+
+  {
+    "question": "What is the name of the first computer bug?",
+    "choices": [
+      "B-5847",
+      "B-5848",
+      "B-5849",
+      "B-5850"
+    ],
+    "answer": "B-5847"
+  }
+
+]
